@@ -46,7 +46,7 @@ Utilizar uma lista de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatGPT
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Leonardo.AI para gerar capa
 - Capcut para tratar aúdio
 
 ## 📚 Materiais
@@ -67,12 +67,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
+    
     <p>&nbsp&nbsp&nbspSilvio Diniz<br>
     &nbsp&nbsp&nbsp
     <a 
