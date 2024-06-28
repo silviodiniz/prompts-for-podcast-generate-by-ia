@@ -23,30 +23,28 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/podcast_editado.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso 'criando um podcast com IAs generativas' - Prof. Felipe Aguiar da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
-
-Utilizar uma lista de prompts para gerar cada etapa do processo criativo.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais elaborados.
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [Leonardo.AI](https://www.app.leonardo.ai/image-generator)
+- [Leonardo.AI](https://www.app.leonardo.ai/image-generation)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatGPT
+- Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Leonardo.AI para gerar capa
+- Leonardo.AI Para gerar capa
 - Capcut para tratar aúdio
 
 ## 📚 Materiais
@@ -66,21 +64,18 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ## 👨‍💻 Expert
 
-<p>
-    
-    <p>&nbsp&nbsp&nbspSilvio Diniz<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/silviodiniz">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/silvio-diniz-de-medeiros-b3157617">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
+<p>&nbsp;&nbsp;&nbsp;Silvio Diniz<br>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/silviodiniz">
+    GitHub
+</a>
+&nbsp;|&nbsp;
+<a href="https://www.linkedin.com/in/silvio-diniz-de-medeiros-b3157617">
+    LinkedIn
+</a>
+&nbsp;|&nbsp;
 </p>
+
 <br/><br/>
 <p>
 
